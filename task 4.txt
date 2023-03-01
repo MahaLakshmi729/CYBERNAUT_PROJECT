@@ -1,0 +1,40 @@
+What is transformers in machine learning?
+Transformers are a type of artificial neural
+ network architecture that is used to solve 
+the problem of transduction or transformation 
+of input sequences into output sequences in 
+deep learning applications
+
+REINFORCEMENT LEARNING
+
+Reinforcement Learning (RL) is a subfield of artificial intelligence (AI) 
+and machine learning (ML) that involves training agents to learn from the 
+environment through trial-and-error interactions, in order to maximize a 
+cumulative reward signal.
+In RL, an agent interacts with an environment to learn how to take actions
+that lead to the desired outcomes. The agent receives feedback from the 
+environment in the form of rewards or punishments, which are used to adjust 
+the agent's behavior. The agent learns by taking actions, observing the outcomes, 
+and adjusting its behavior based on the rewards received.
+The goal of RL is to find an optimal policy that maximizes the cumulative 
+reward over time. The policy is a mapping of states to actions that the agent 
+should take in order to achieve the desired outcome. RL algorithms use various 
+techniques, such as value-based methods, policy-based methods, and model-based methods, 
+to learn this optimal policy.
+RL has been applied to a wide range of applications, including game playing, robotics,
+natural language processing, recommendation systems, and more. It has shown great 
+success in solving complex problems where traditional programming methods are not effective.
+
+Pre-trained model
+A pre-trained model is a machine learning model that has already been trained on a 
+large dataset and is then made available for others to use for their own tasks. 
+Pre-trained models can be used to speed up the process of training a new model or
+to improve the accuracy of an existing model.
+
+Applications of Reinforcement Learning
+1. Automated robots
+2. natural language processing
+3. marketing and advertising
+4. recommendation system
+5. image processing
+6. gaming
