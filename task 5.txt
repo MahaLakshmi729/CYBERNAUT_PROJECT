@@ -1,0 +1,37 @@
+clustering:
+Clustering is a process of grouping together similar objects or data points based on their characteristics or properties. The goal of clustering is to divide a large dataset into smaller, more manageable groups or clusters that share similar features or patterns.
+
+INPUT example:
+->Customer Segmentation: Suppose we have a dataset of customers who have made purchases from an online store. 
+->Image Segmentation: Suppose we have a dataset of images of different types of fruits.
+->Genomic Clustering: Suppose we have a dataset of genetic data from different organisms. We can use clustering to group together organisms that share similar DNA sequences.
+->Document Clustering: We can use clustering to group similar articles together based on their content.
+->Anomaly Detection: Suppose: We can use clustering to identify unusual patterns in the transaction data that might indicate fraud or other types of unusual activity.
+
+OUTPUT example:
+->Customer Segmentation: Each group might have its own unique set of characteristics that could be used to target them with specific marketing campaigns.
+->Image Segmentation: we can identify and segment each fruit into distinct regions, which can then be analyzed further or used for other image processing tasks.
+->Genomic Clustering: we can identify potential genetic markers for certain traits or diseases and gain insights into the evolutionary relationships between different organisms.
+->Document Clustering: we can track the prevalence and evolution of each topic over time and identify important trends and patterns.
+->Anomaly Detection: we might identify a cluster of transactions that all involve unusually large amounts of money.
+
+Classification:
+Classification is a type of supervised learning algorithm used in machine learning to predict the categorical class of a given input. 
+
+Example:
+->Spam Detection: Given an email message, classify it as either spam or not spam.
+->Credit Risk Assessment: Given a loan application, classify it as either high risk or low risk.
+->Image Recognition: Given an image, classify it as containing a specific object or not.
+->Sentiment Analysis: Given a text review, classify it as positive, negative, or neutral.
+->Disease Diagnosis: Given a patient's medical history and symptoms, classify them as having a specific disease or not.
+
+
+Regression:
+Regression is a type of supervised learning algorithm used in machine learning to predict a continuous numeric value. 
+
+Example:
+->Stock Price Prediction: Given historical stock prices and other financial indicators, predict the future stock price.
+->Sales Forecasting: Given past sales data and marketing expenditures, predict future sales figures.
+->Housing Price Prediction: Given data on housing features such as square footage, number of bedrooms, and location, predict the sale price of a house.
+->Crop Yield Prediction: Given data on weather patterns and soil conditions, predict the expected yield of a crop.
+->Medical Outcome Prediction: Given a patient's medical history and other factors, predict their expected length of hospital stay or risk of complications.
